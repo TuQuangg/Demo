@@ -1,3 +1,5 @@
+#Arthur: TuTQ2
+
 import serial.tools.list_ports
 
 def get_ports():
